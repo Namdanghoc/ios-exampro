@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "544697004384",
+    "project_id": "luyendethithpt",
+    "storage_bucket": "luyendethithpt.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:544697004384:android:caf3ab6df79c1ba993ae05",
+        "android_client_info": {
+          "package_name": "com.example.app_luyen_de_thpt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4L0Ia6GDaQCZtUi8jVJgwqScGyWzBGgg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
